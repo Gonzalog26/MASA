@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<DPFInfo>
+    <Structure>
+        <Key Id="0">
+            <Key Id="0">k00.00</Key>
+            <Key Id="1">k00.01</Key>
+            <Key Id="2">k00.02</Key>
+            <Key Id="3">k00.03</Key>
+            <Key Id="4">k00.04</Key>
+            <Key Id="5">k00.05</Key>
+            <Key Id="6">k00.06</Key>
+            <Key Id="7">k00.07</Key>
+            <Key Id="8">k00.08</Key>
+            <Key Id="9">k00.09</Key>
+            <Key Id="10">k00.0A</Key>
+            <Key Id="11">k00.0B</Key>
+            <Key Id="12">k00.0C</Key>
+            <Key Id="13">k00.0D</Key>
+            <Key Id="14">k00.0E</Key>
+            <Key Id="15">k00.0F</Key>
+            <Key Id="16">k00.10</Key>
+            <Key Id="17">k00.11</Key>
+        </Key>
+        <Key Id="1">k01</Key>
+        <Key Id="9">
+            <Key Id="0">k09[0]</Key>
+            <Key Id="1">k09[1]</Key>
+            <Key Id="2">k09[2]</Key>
+            <Key Id="3">k09[3]</Key>
+            <Key Id="4">k09[4]</Key>
+            <Key Id="5">k09[5]</Key>
+            <Key Id="6">k09[6]</Key>
+            <Key Id="7">k09[7]</Key>
+            <Key Id="8">k09[8]</Key>
+            <Key Id="9">k09[9]</Key>
+            <Key Id="10">k09[A]</Key>
+            <Key Id="11">k09[B]</Key>
+            <Key Id="12">k09[C]</Key>
+            <Key Id="13">k09[D]</Key>
+            <Key Id="14">k09[E]</Key>
+            <Key Id="15">k09[F]</Key>
+            <Key Id="16">k09[10]</Key>
+            <Key Id="17">k09[11]</Key>
+            <Key Id="18">k09[12]</Key>
+            <Key Id="19">k09[13]</Key>
+            <Key Id="20">k09[14]</Key>
+            <Key Id="21">k09[15]</Key>
+            <Key Id="22">k09[16]</Key>
+            <Key Id="23">k09[17]</Key>
+        </Key>
+        <Key Id="13">
+            <Key Id="0">k0D.00</Key>
+            <Key Id="1">k0D.01</Key>
+            <Key Id="2">k0D.02</Key>
+            <Key Id="3">k0D.03</Key>
+            <Key Id="4">k0D.04</Key>
+            <Key Id="5">k0D.05</Key>
+            <Key Id="6">k0D.06</Key>
+            <Key Id="7">k0D.07</Key>
+            <Key Id="8">k0D.08</Key>
+            <Key Id="9">k0D.09</Key>
+            <Key Id="10">k0D.0A</Key>
+            <Key Id="11">k0D.0B</Key>
+            <Key Id="12">k0D.0C</Key>
+            <Key Id="13">k0D.0D</Key>
+            <Key Id="14">k0D.0E</Key>
+            <Key Id="15">k0D.0F</Key>
+            <Key Id="16">k0D.10</Key>
+            <Key Id="17">k0D.11</Key>
+            <Key Id="18">k0D.12</Key>
+            <Key Id="19">k0D.13</Key>
+            <Key Id="20">k0D.14</Key>
+            <Key Id="21">k0D.15</Key>
+            <Key Id="22">k0D.16</Key>
+            <Key Id="23">k0D.17</Key>
+            <Key Id="24">k0D.18</Key>
+            <Key Id="25">k0D.19</Key>
+            <Key Id="26">k0D.1A</Key>
+            <Key Id="27">k0D.1B</Key>
+        </Key>
+        <Key Id="15">
+            <Key Id="0">
+                <Key Id="0">k0F.00[0]</Key>
+                <Key Id="1">k0F.00[1]</Key>
+                <Key Id="2">k0F.00[2]</Key>
+                <Key Id="3">k0F.00[3]</Key>
+                <Key Id="4">k0F.00[4]</Key>
+                <Key Id="5">k0F.00[5]</Key>
+                <Key Id="6">k0F.00[6]</Key>
+                <Key Id="7">k0F.00[7]</Key>
+            </Key>
+        </Key>
+    </Structure>
+</DPFInfo>

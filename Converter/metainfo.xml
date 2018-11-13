@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<DPFInfo>
+    <Structure>
+		<Key Id="0">
+            <Key Id="0">year</Key>
+            <Key Id="1">month</Key>
+            <Key Id="2">day</Key>
+            <Key Id="3">hour</Key>
+            <Key Id="4">minute</Key>
+            <Key Id="5">second</Key>
+            <Key Id="6">milisecond</Key>
+            <Key Id="7">Unix.Time</Key>
+        </Key>    
+		<Key Id="1">time stamp</Key>
+        <Key Id="09">
+            <Key Id="0">X-Act-Speed</Key>
+            <Key Id="1">Y-Act-Speed</Key>
+            <Key Id="2">Z-Act-Speed</Key>
+            <Key Id="3">X-Tar-Speed</Key>
+            <Key Id="4">Y-Tar-Speed</Key>
+            <Key Id="5">Z-Tar-Speed</Key>
+            <Key Id="6">SP-Torque</Key>
+            <Key Id="7">SP-True-Power</Key>
+            <Key Id="8">X-Torque</Key>
+            <Key Id="9">X-Act-Pos</Key>
+            <Key Id="10">Y-Act-Pos</Key>
+            <Key Id="11">Z-Act-Pos</Key>
+            <Key Id="12">X-Tar-Pos</Key>
+            <Key Id="13">Y-Tar-Pos</Key>
+            <Key Id="14">Z-Tar-Pos</Key>
+            <Key Id="15">Y-Torque</Key>
+            <Key Id="16">ACC_X</Key>
+			<Key Id="17">ACC_Y</Key>
+			<Key Id="18">ACC_Z</Key>
+			<Key Id="19">True Power</Key>
+			<Key Id="20">X-Act_Enc-Pos</Key>
+			<Key Id="21">Y-Act_Enc-Pos</Key>
+			<Key Id="22">Z-Act_Enc-Pos</Key>
+			<Key Id="23">Z-Torque</Key>
+		</Key>
+		<Key Id="13">
+            <Key Id="20">PN</Key>
+            <Key Id="21">TN</Key>
+            <Key Id="22">AN</Key>
+			<Key Id="23">LocalID</Key>
+        </Key>
+	</Structure>
+</DPFInfo>
